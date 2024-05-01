@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+#### I'm Niculian, an enthusiastic student from Switzerland, currently learning software development.
 <!--
 **Nicola3341246/Nicola3341246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
